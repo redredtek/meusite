@@ -1,0 +1,42 @@
+header{
+    background-color: rgb(255, 0, 255);
+    width: 99vw;
+    height: 120px;
+    outline: auto;
+    padding: px;
+    ;}
+
+    body{
+        background-color: rgb(185, 24, 185);
+    }
+    h1{    display: flex;
+        font-size: 73px;
+        align-items:center ;
+        justify-content: center;}
+    #m2{
+        display: flex;
+        justify-content: end;
+
+    }
+a{
+    font-size: 35px;
+}
+h2{
+    margin-top: 200px;
+    color: rgb(27, 12, 26);
+    font-size: 50px;
+}
+a{
+    font-size:24px;
+    color: rgb(255, 140, 255);
+    line-height: 30px;
+    display: flex;
+}
+ul{
+    outline: auto;
+}
+footer{
+    background-color: blueviolet;
+    outline: auto;
+    height: 170px;
+}
